@@ -1,8 +1,8 @@
 class Drumkit < Formula
   desc "Low-latency TUI MIDI drum sampler for electronic drum kits"
   homepage "https://github.com/backmeupplz/drumkit"
-  url "https://github.com/backmeupplz/drumkit/archive/refs/tags/v0.1.6.tar.gz"
-  sha256 "fedf0ff8c32b6c2378569b17362b330cf5662ecb3e56494d06d54cc915ad5296"
+  url "https://github.com/backmeupplz/drumkit/archive/refs/tags/v0.1.7.tar.gz"
+  sha256 "2248a819616f9b12371a2e11db19ec72fb621542f1c8289f01a21e99b76b3593"
   license "MIT"
 
   depends_on "rust" => :build
